@@ -1,4 +1,13 @@
 ### Hi there 👋
+I'm Gigi
+
+🔭 I’m currently working on 
+- A spotify app that summarizes your profile.
+
+🌱 I’m currently learning
+- TypeScript by building a spotify app.
+- How to build a second brain.
+- You can find some of my writings at https://gpacheco003.medium.com/ and https://blog.gisellep.com/.
 
 <!--
 **giggi1226/giggi1226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
