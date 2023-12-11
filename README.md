@@ -7,7 +7,7 @@ I'm Gigi
 🌱 I’m currently learning
 - TypeScript by building a spotify app.
 - How to build a second brain.
-- You can find some of my writings at https://gpacheco003.medium.com/ and https://blog.gisellep.com/.
+- You can find some of my writings at https://gpacheco003.medium.com/ and https://tech.gisellep.com/.
 
 check out [v1](https://github.com/giggi1226/personal-website) of my website [gisellep.com](gisellep.com), 
 
