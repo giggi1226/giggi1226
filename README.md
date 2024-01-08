@@ -2,14 +2,18 @@
 I'm Gigi
 
 🔭 I’m currently working on 
-- Masters in CS
+- Masters in CS, Human Computer Interaction
 - Tech Blog: https://tech.gisellep.com/.
 - Anything, but mostly personal finance blog: https://gpacheco003.medium.com/
 
-🌱 I’m currently Reading
-- TypeScript docs
-- How to build a second brain (non-fiction)
-- A Sign for Home (fiction)
+📚 I’m currently Reading
+- Feel Good Productivity by Ali Abdaal (non-fiction)
+- The Sign for Home By Blair Fell (fiction)
+
+👩🏽‍💻 I’m currently learning
+- NextJS
+- TypeScript
+- Tailwind
 
 check out [v2](https://github.com/giggi1226/v2) of my website [gisellep.com](gisellep.com), 
 
